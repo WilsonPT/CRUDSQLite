@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUDSQLite</string>
+    <string name="btRegistrar">Registrar producto</string>
+    <string name="btBuscar">Buscar producto</string>
+    <string name="btModificar">Modificar producto</string>
+    <string name="btEliminar">Eliminar producto</string>
+    <string name="etCodigo">Codigo del producto</string>
+    <string name="etDescripcion">Descripcion del producto</string>
+    <string name="etPrecio">Precio del producto</string>
+</resources>
