@@ -58,13 +58,22 @@
             android:id="@+id/btModificar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="modificar"
             android:text="@string/btModificar" />
 
         <Button
             android:id="@+id/btEliminar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="eliminar"
             android:text="@string/btEliminar" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="irReporte"
+            android:text="@string/btReporte" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

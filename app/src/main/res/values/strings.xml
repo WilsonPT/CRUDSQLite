@@ -4,6 +4,7 @@
     <string name="btBuscar">Buscar producto</string>
     <string name="btModificar">Modificar producto</string>
     <string name="btEliminar">Eliminar producto</string>
+    <string name="btReporte">Reporte de articulos</string>
     <string name="etCodigo">Codigo del producto</string>
     <string name="etDescripcion">Descripcion del producto</string>
     <string name="etPrecio">Precio del producto</string>
